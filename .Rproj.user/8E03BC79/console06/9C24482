@@ -1,0 +1,128 @@
+[0m[0K[?25lMicrosoft Windows [Version 10.0.17763.1282][0K
+(c) 2018 Microsoft Corporation. All rights reserved.[0K
+[0K
+C:\Users\u110005\Documents\github_test>[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[0m[1;1H[2J[0m                                      g[0Kit[0K[43G[42G[?25l                                      gi[0K[?25h[?25l                                      g[0K[?25h[?25l[0K[39G[?25h[?25l
+C:\Users\u110005\Documents\github_test>[0K[?25hg[0Ki[0Kt[0K[44G[?25lC:\Users\u110005\Documents\github_test>git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
+[0K[?25hInitialized empty Git repository in C:/Users/u110005/Documents/github_test/.git/[0K[?25l
+[0K[?25h]0; [?25l
+C:\Users\u110005\Documents\github_test>[0K[?25h[?25l[3AC:\Users\u110005\Documents\gith[0Ku
+b_test>git init[0K
+Initialized empty Git repositor[0Ky
+ in C:/Users/u110005/Documents/[0Kg
+ithub_test/.git/[0K
+[0K
+C:\Users\u110005\Documents\gith[0Ku
+b_test>[0K[?25hg[0Ki[0Kt[0K[12G[?25lb_test>git a[0K[?25hd[0Kd[0K[16G[?25lb_test>git add R[0K[?25hE[0KA[0KD[0KM[0KE[0K.[0Km[0Kd[0K]0;  - git  add README.md[?25l
+[0K[?25h[?25lfatal: pathspec 'README.md' did[0K
+not match any files[0K[1A[?25h]0; [?25l
+
+[0K
+C:\Users\u110005\Documents\gith[0Ku
+b_test>[0K[?25hg[0Ki[0Kt[0K[12G[?25lb_test>git a[0K[?25hd[0Kd[0K[16G[?25lb_test>git add -[0K[?25hA[0K]0;  - git  add -A[?25l
+[0K[?25hwarning: LF will be replaced by[0K[?25l
+CRLF in .Rhistory.[0K
+The file will have its original[0K
+line endings in your working di[0Kr
+ectory[0K
+[0K[?25hwarning: LF will be replaced by[0K[?25l
+CRLF in .Rproj.user/8E03BC79/so[0Ku
+rces/prop/146E1FDC.[0K
+The file will have its original[0K
+line endings in your working di[0Kr
+ectory[0K
+warning: LF will be replaced by[0K
+CRLF in .Rproj.user/8E03BC79/so[0Ku
+rces/prop/INDEX.[0K
+The file will have its original[0K
+line endings in your working di[0Kr
+ectory[0K
+warning: LF will be replaced by[0K
+CRLF in .Rproj.user/8E03BC79/so[0Ku
+rces/s-B2B4FEC4/45C67946.[0K
+The file will have its original[0K
+line endings in your working di[0Kr
+ectory[0K
+warning: LF will be replaced by[0K
+CRLF in .Rproj.user/8E03BC79/so[0Ku
+rces/s-B2B4FEC4/45C67946-conten[0Kt
+s.[0K
+The file will have its original[0K
+line endings in your working di[0Kr
+ectory[0K
+warning: LF will be replaced by[0K[1G[?25h[?25l
+CRLF in .Rproj.user/shared/note[0Kb
+ooks/paths.[0K
+The file will have its original[0K
+line endings in your working di[0Kr
+ectory[0K
+[0K[?25h]0; [?25l
+C:\Users\u110005\Documents\gith[0Ku
+b_test>[0K[?25h[?25l[26ACRLF in .Rproj.user/8E03BC79/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/8E03BC79/sources/s-B2B4FEC4/45C679[0K4
+6.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/8E03BC79/sources/s-B2B4FEC4/45C679[0K4
+6-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory[0K
+[0K
+C:\Users\u110005\Documents\github_test>[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[15A[40G[?25h[?25lC:\Users\u110005\Documents\github_test>git add -A[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[15A[50G[?25h]0;  - git  add -A[?25l
+[?25h
